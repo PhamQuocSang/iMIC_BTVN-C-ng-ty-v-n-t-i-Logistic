@@ -11,5 +11,7 @@ public class Demo2 {
         //sua len verson moi
         name = "d";
         System.out.println("Ten là: " + name);
+        classS = "10";
+        System.out.println("lop: " + classS);
     }
 }
